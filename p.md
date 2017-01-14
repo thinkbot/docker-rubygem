@@ -1116,7 +1116,7 @@
 - [preflight 0.3.0](https://github.com/docker-rubygem/preflight)
 - [preflight_check 0.1.1](https://github.com/docker-rubygem/preflight_check)
 - [prefnerd 0.2](https://github.com/docker-rubygem/prefnerd)
-- [premailer 1.8.7](https://github.com/docker-rubygem/premailer)
+- [premailer 1.9.0](https://github.com/docker-rubygem/premailer)
 - [premailer-plus 0.1.3](https://github.com/docker-rubygem/premailer-plus)
 - [prenus 0.0.12](https://github.com/docker-rubygem/prenus)
 - [prep 0.4.0](https://github.com/docker-rubygem/prep)

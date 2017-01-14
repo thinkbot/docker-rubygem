@@ -1600,7 +1600,7 @@
 - [mumehtahola 0.0.3](https://github.com/docker-rubygem/mumehtahola)
 - [mummy 0.1.1](https://github.com/docker-rubygem/mummy)
 - [mundane 0.0.5](https://github.com/docker-rubygem/mundane)
-- [munge 0.15.0](https://github.com/docker-rubygem/munge)
+- [munge 0.15.1](https://github.com/docker-rubygem/munge)
 - [munger 0.0.2](https://github.com/docker-rubygem/munger)
 - [muni 0.0.8](https://github.com/docker-rubygem/muni)
 - [munin-plugins-rails 0.2.13](https://github.com/docker-rubygem/munin-plugins-rails)
