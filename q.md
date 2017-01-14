@@ -1,12 +1,13 @@
 # Gems starting with q
 
+- [QaDeS-lax 0.0.1](https://github.com/docker-rubygem/QaDeS-lax)
+- [QaDeS-qades-sequel 2.11.0](https://github.com/docker-rubygem/QaDeS-qades-sequel)
+- [Qlee 0.0.5](https://github.com/docker-rubygem/Qlee)
 - [q-ruby-driver 1.1.0](https://github.com/docker-rubygem/q-ruby-driver)
 - [q3 0.0.1](https://github.com/docker-rubygem/q3)
 - [qa-tool 0.18-x86_64-linux](https://github.com/docker-rubygem/qa-tool)
 - [qa_release_tasks 1.3.2](https://github.com/docker-rubygem/qa_release_tasks)
 - [qa_robusta 0.1.9](https://github.com/docker-rubygem/qa_robusta)
-- [QaDeS-lax 0.0.1](https://github.com/docker-rubygem/QaDeS-lax)
-- [QaDeS-qades-sequel 2.11.0](https://github.com/docker-rubygem/QaDeS-qades-sequel)
 - [qb 0.1.41](https://github.com/docker-rubygem/qb)
 - [qbert_bot 0.0.4](https://github.com/docker-rubygem/qbert_bot)
 - [qbo-sandbox 0.2.0](https://github.com/docker-rubygem/qbo-sandbox)
@@ -41,7 +42,6 @@
 - [qipowl 0.9.7](https://github.com/docker-rubygem/qipowl)
 - [ql 0.0.4](https://github.com/docker-rubygem/ql)
 - [qlang 0.0.27182124](https://github.com/docker-rubygem/qlang)
-- [Qlee 0.0.5](https://github.com/docker-rubygem/Qlee)
 - [qless 0.10.5](https://github.com/docker-rubygem/qless)
 - [qless-campfire 0.9.1](https://github.com/docker-rubygem/qless-campfire)
 - [qless-growl 0.9.1](https://github.com/docker-rubygem/qless-growl)
