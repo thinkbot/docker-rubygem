@@ -1598,7 +1598,7 @@
 - [smallcage 0.2.9](https://github.com/docker-rubygem/smallcage)
 - [smallvictories 0.0.19](https://github.com/docker-rubygem/smallvictories)
 - [smalrubot 0.0.7](https://github.com/docker-rubygem/smalrubot)
-- [smalruby-editor 0.1.24](https://github.com/docker-rubygem/smalruby-editor)
+- [smalruby-editor 0.1.24-x86-mingw32](https://github.com/docker-rubygem/smalruby-editor)
 - [smarbs 0.9.4](https://github.com/docker-rubygem/smarbs)
 - [smarky 0.0.4](https://github.com/docker-rubygem/smarky)
 - [smart_alec 0.0.2](https://github.com/docker-rubygem/smart_alec)

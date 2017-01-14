@@ -1294,7 +1294,7 @@
 - [aws_ssh 0.1.7](https://github.com/docker-rubygem/aws_ssh)
 - [aws_student_accounts 0.2.0](https://github.com/docker-rubygem/aws_student_accounts)
 - [aws_tracker 0.0.4](https://github.com/docker-rubygem/aws_tracker)
-- [awsam 0.1.0](https://github.com/docker-rubygem/awsam)
+- [awsam 0.1.1](https://github.com/docker-rubygem/awsam)
 - [awsbix 0.0.7](https://github.com/docker-rubygem/awsbix)
 - [awscli 0.2.8](https://github.com/docker-rubygem/awscli)
 - [awsdsl 0.0.2](https://github.com/docker-rubygem/awsdsl)
