@@ -41,7 +41,7 @@
 - [yaml-validator 0.1.10](https://github.com/docker-rubygem/yaml-validator)
 - [yaml2json 0.0.2](https://github.com/docker-rubygem/yaml2json)
 - [yaml2tmx 1.0.0](https://github.com/docker-rubygem/yaml2tmx)
-- [yaml_bot 0.1.1](https://github.com/docker-rubygem/yaml_bot)
+- [yaml_bot 0.2.0](https://github.com/docker-rubygem/yaml_bot)
 - [yaml_checker 0.1.2](https://github.com/docker-rubygem/yaml_checker)
 - [yaml_command 0.1.1](https://github.com/docker-rubygem/yaml_command)
 - [yaml_conditions 0.0.0.5](https://github.com/docker-rubygem/yaml_conditions)

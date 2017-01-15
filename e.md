@@ -383,7 +383,7 @@
 - [endlessruby 0.1.0](https://github.com/docker-rubygem/endlessruby)
 - [endo 0.5.1](https://github.com/docker-rubygem/endo)
 - [endoscope 0.0.1](https://github.com/docker-rubygem/endoscope)
-- [endpointer 0.0.4](https://github.com/docker-rubygem/endpointer)
+- [endpointer 0.0.5](https://github.com/docker-rubygem/endpointer)
 - [engage 0.1.1](https://github.com/docker-rubygem/engage)
 - [engage_my_page 0.1.0](https://github.com/docker-rubygem/engage_my_page)
 - [engineering_calculator 2.0.0](https://github.com/docker-rubygem/engineering_calculator)

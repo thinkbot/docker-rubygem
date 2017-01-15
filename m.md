@@ -1655,7 +1655,7 @@
 - [mux 0.0.3](https://github.com/docker-rubygem/mux)
 - [muxit 0.1.0](https://github.com/docker-rubygem/muxit)
 - [muxoro 0.1.0](https://github.com/docker-rubygem/muxoro)
-- [muzak 0.2.3](https://github.com/docker-rubygem/muzak)
+- [muzak 0.2.6](https://github.com/docker-rubygem/muzak)
 - [mv-slacker 0.0.3](https://github.com/docker-rubygem/mv-slacker)
 - [mvcli 0.0.16](https://github.com/docker-rubygem/mvcli)
 - [mvclient 0.0.4](https://github.com/docker-rubygem/mvclient)

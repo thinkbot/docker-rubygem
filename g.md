@@ -1355,7 +1355,7 @@
 - [gpa_calculator 1.0.1](https://github.com/docker-rubygem/gpa_calculator)
 - [gpeng-throttler 0.1.1](https://github.com/docker-rubygem/gpeng-throttler)
 - [gpgc 0.0.1](https://github.com/docker-rubygem/gpgc)
-- [gpgenv 0.1.6](https://github.com/docker-rubygem/gpgenv)
+- [gpgenv 0.1.7](https://github.com/docker-rubygem/gpgenv)
 - [gphys 1.4.3.2](https://github.com/docker-rubygem/gphys)
 - [gpig 0.0.32](https://github.com/docker-rubygem/gpig)
 - [gplan 0.2.1](https://github.com/docker-rubygem/gplan)
