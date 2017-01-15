@@ -35,7 +35,7 @@
 - [dabcup 0.1.2](https://github.com/docker-rubygem/dabcup)
 - [dacpclient 0.2.11](https://github.com/docker-rubygem/dacpclient)
 - [dadablog 0.0.4](https://github.com/docker-rubygem/dadablog)
-- [daddy 0.5.17](https://github.com/docker-rubygem/daddy)
+- [daddy 0.5.18](https://github.com/docker-rubygem/daddy)
 - [daedalus 2.0.1](https://github.com/docker-rubygem/daedalus)
 - [daeltar-clockwork 0.2.4](https://github.com/docker-rubygem/daeltar-clockwork)
 - [daemon-kit 0.1.7.12](https://github.com/docker-rubygem/daemon-kit)

@@ -269,7 +269,7 @@
 - [utils 0.0.100](https://github.com/docker-rubygem/utils)
 - [utm-plc 0.2.2](https://github.com/docker-rubygem/utm-plc)
 - [utochki 0.2.1](https://github.com/docker-rubygem/utochki)
-- [utopia 1.6.13](https://github.com/docker-rubygem/utopia)
+- [utopia 1.9.10](https://github.com/docker-rubygem/utopia)
 - [utsup 0.1.6](https://github.com/docker-rubygem/utsup)
 - [utter 1.0.23](https://github.com/docker-rubygem/utter)
 - [utterson 0.2.1](https://github.com/docker-rubygem/utterson)
