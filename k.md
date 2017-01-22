@@ -303,7 +303,7 @@
 - [knao124 0.0.1](https://github.com/docker-rubygem/knao124)
 - [knapsack 1.13.1](https://github.com/docker-rubygem/knapsack)
 - [knapsack-gitlab 1.9.2](https://github.com/docker-rubygem/knapsack-gitlab)
-- [knapsack_pro 0.17.0](https://github.com/docker-rubygem/knapsack_pro)
+- [knapsack_pro 0.19.0](https://github.com/docker-rubygem/knapsack_pro)
 - [knife-chop 0.5.15](https://github.com/docker-rubygem/knife-chop)
 - [knife-santoku 0.1.6](https://github.com/docker-rubygem/knife-santoku)
 - [knife-stackbuilder 0.6.1](https://github.com/docker-rubygem/knife-stackbuilder)

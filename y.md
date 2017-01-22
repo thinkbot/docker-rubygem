@@ -125,6 +125,7 @@
 - [yello 0.0.4](https://github.com/docker-rubygem/yello)
 - [yellowlab-akephalos 0.2.6](https://github.com/docker-rubygem/yellowlab-akephalos)
 - [yelpme 0.0.5](https://github.com/docker-rubygem/yelpme)
+- [yes 0.0.1](https://github.com/docker-rubygem/yes)
 - [yes_ship_it 0.2.0](https://github.com/docker-rubygem/yes_ship_it)
 - [yesman 0.0.5](https://github.com/docker-rubygem/yesman)
 - [yetis_node 0.1.1](https://github.com/docker-rubygem/yetis_node)

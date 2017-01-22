@@ -516,7 +516,7 @@
 - [ironnails 0.0.3](https://github.com/docker-rubygem/ironnails)
 - [irosi 0.0.3](https://github.com/docker-rubygem/irosi)
 - [irpack 0.2.7](https://github.com/docker-rubygem/irpack)
-- [irrc 0.1.0](https://github.com/docker-rubygem/irrc)
+- [irrc 0.2.0](https://github.com/docker-rubygem/irrc)
 - [irsh 0.2.3](https://github.com/docker-rubygem/irsh)
 - [irt 1.2.12](https://github.com/docker-rubygem/irt)
 - [iruby 0.1.13](https://github.com/docker-rubygem/iruby)

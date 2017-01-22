@@ -5,7 +5,7 @@
 - [Qlee 0.0.5](https://github.com/docker-rubygem/Qlee)
 - [q-ruby-driver 1.1.0](https://github.com/docker-rubygem/q-ruby-driver)
 - [q3 0.0.1](https://github.com/docker-rubygem/q3)
-- [qa-tool 0.18-x86_64-linux](https://github.com/docker-rubygem/qa-tool)
+- [qa-tool 0.18-x86_64-darwin-15](https://github.com/docker-rubygem/qa-tool)
 - [qa_release_tasks 1.3.2](https://github.com/docker-rubygem/qa_release_tasks)
 - [qa_robusta 0.1.9](https://github.com/docker-rubygem/qa_robusta)
 - [qb 0.1.41](https://github.com/docker-rubygem/qb)

@@ -54,7 +54,7 @@
 - [xcodebuild-helper 1.2.5](https://github.com/docker-rubygem/xcodebuild-helper)
 - [xcodebuild-rb 0.3.0](https://github.com/docker-rubygem/xcodebuild-rb)
 - [xcodebump 0.0.5](https://github.com/docker-rubygem/xcodebump)
-- [xcodegen 0.1.5](https://github.com/docker-rubygem/xcodegen)
+- [xcodegen 0.2.0](https://github.com/docker-rubygem/xcodegen)
 - [xcodeproj 0.28.2](https://github.com/docker-rubygem/xcodeproj)
 - [xcodeproj_merge 0.1.0](https://github.com/docker-rubygem/xcodeproj_merge)
 - [xcodeproj_utils 0.2.3](https://github.com/docker-rubygem/xcodeproj_utils)

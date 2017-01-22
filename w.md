@@ -215,7 +215,7 @@
 - [webappsword_sdk 0.0.1](https://github.com/docker-rubygem/webappsword_sdk)
 - [webb 0.0.2](https://github.com/docker-rubygem/webb)
 - [webber 0.0.1](https://github.com/docker-rubygem/webber)
-- [webby 0.9.4](https://github.com/docker-rubygem/webby)
+- [webby 0.9.4-x86-mswin32](https://github.com/docker-rubygem/webby)
 - [webbynode 1.0.5.3](https://github.com/docker-rubygem/webbynode)
 - [webbynode-mason 0.1.1](https://github.com/docker-rubygem/webbynode-mason)
 - [webbynode-mongo_mapper 0.6.4](https://github.com/docker-rubygem/webbynode-mongo_mapper)
